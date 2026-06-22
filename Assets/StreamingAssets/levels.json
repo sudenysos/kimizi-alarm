@@ -1,0 +1,40 @@
+{
+  "levels": [
+    {
+      "levelIndex": 0,
+      "sceneName": "Level0",
+      "levelNumber": "BÖLÜM 0",
+      "levelName": "EĞİTİM UÇUŞU",
+      "description": "Dron uçuş dinamiklerini öğrenmek ve temel söndürme modüllerini test etmek için güvenli bir simülasyon alanı.",
+      "medal": 0,
+      "isUnlocked": true
+    },
+    {
+      "levelIndex": 1,
+      "sceneName": "Level1",
+      "levelNumber": "BÖLÜM 1",
+      "levelName": "ŞEHİR PARKI",
+      "description": "Parktaki bir ağaçta yangın başladı ve rüzgarın etkisiyle hızla yayılıyor. Alevler tüm ormanı sarmadan geniş çaplı müdahale et!",
+      "medal": 0,
+      "isUnlocked": false
+    },
+    {
+      "levelIndex": 2,
+      "sceneName": "Level2",
+      "levelNumber": "BÖLÜM 2",
+      "levelName": "SEYYAR MUTFAK",
+      "description": "Mahalle arasındaki sosisli arabasında tehlikeli bir yağ yangını çıktı. Hedefe uç ve doğru modülü kullanarak ızgarayı güvenle söndür!",
+      "medal": 0,
+      "isUnlocked": false
+    },
+    {
+      "levelIndex": 3,
+      "sceneName": "Level3",
+      "levelNumber": "BÖLÜM 3",
+      "levelName": "LOJİSTİK DEPO",
+      "description": "Deponun derinliklerindeki elektrik panosunda kısa devre yaşandı. Yüksek paletlerin arasından dikkatlice süzül ve sisteme müdahale et!",
+      "medal": 0,
+      "isUnlocked": false
+    }
+  ]
+}
