@@ -3,7 +3,7 @@
 ## Video
 
 
-https://youtube.com/senin-ornek-linkin
+https://drive.google.com/file/d/1R12kw2T-YS1lUBs0RCfB5DDKy-2DTa8s/view?usp=share_link
 
 
 ---
