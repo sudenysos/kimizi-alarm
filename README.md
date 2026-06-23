@@ -8,6 +8,13 @@ https://youtube.com/senin-ornek-linkin
 
 ---
 
+## macOS Versiyonu
+
+https://github.com/sudenysos/kirmizi-alarm/releases/latest
+
+
+---
+
 ## Proje Görselleri
 
 ### Bölüm Seçim Ekranı
